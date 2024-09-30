@@ -63,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Array
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
