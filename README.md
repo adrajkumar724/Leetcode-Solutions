@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1256-rank-transform-of-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Stack
 |  |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+## Hash Table
+|  |
+| ------- |
+| [1256-rank-transform-of-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1256-rank-transform-of-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
