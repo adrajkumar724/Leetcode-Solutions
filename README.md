@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Database
 |  |
 | ------- |
@@ -84,8 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Sorting
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 <!---LeetCode Topics End-->
