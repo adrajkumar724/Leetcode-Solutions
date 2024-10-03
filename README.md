@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1694-make-sum-divisible-by-p](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Sorting
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
