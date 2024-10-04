@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Database
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1636-number-of-substrings-with-only-1s](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
