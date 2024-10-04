@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1256-rank-transform-of-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1694-make-sum-divisible-by-p](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1256-rank-transform-of-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1830-count-good-meals](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1830-count-good-meals) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 ## Two Pointers
 |  |
