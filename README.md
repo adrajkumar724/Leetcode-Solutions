@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1694-make-sum-divisible-by-p](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1830-count-good-meals](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1830-count-good-meals) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1830-count-good-meals](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1830-count-good-meals) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Sorting
@@ -123,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
