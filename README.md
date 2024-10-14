@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-count-good-meals](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1830-count-good-meals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Stack
 |  |
 | ------- |
@@ -126,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Greedy
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
