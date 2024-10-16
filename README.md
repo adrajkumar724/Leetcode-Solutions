@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
+| [1304-longest-happy-string](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Database
@@ -126,10 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1304-longest-happy-string](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Greedy
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
