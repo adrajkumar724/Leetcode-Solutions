@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -145,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
