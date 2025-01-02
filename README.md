@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1694-make-sum-divisible-by-p](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1830-count-good-meals](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1830-count-good-meals) |
+| [1917-maximum-average-pass-ratio](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -135,12 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1304-longest-happy-string](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Greedy
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## String Matching
 |  |
