@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [1304-longest-happy-string](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
+| [1524-string-matching-in-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1830-count-good-meals](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1830-count-good-meals) |
 | [1917-maximum-average-pass-ratio](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adrajkumar724/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Dynamic Programming
 |  |
